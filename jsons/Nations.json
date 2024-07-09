@@ -1,1 +1,27 @@
+[
+    {
+        "name": "Pagan",
+        "leaderName": "Tuhawa",
+        "adejective": [""],
+        "startIntroPart1": "I can't bear it anymore.",
+    		"startIntroPart2": "Will join our revenge?",
+		
+    		"introduction": "I will fight back !!!",
+       
+    		"afterPeace": "Maybe we should celebrate the end of war?",
+    		"tradeRequest": "I present you this trade offer.",
 
+    		"outerColor": [50,100,253],
+    		"innerColor": [18,160,85],
+        "uniques": ["[+20 Science] [in capital]",
+                    "No movement cost to pillage <for [All] units>",
+                    "[+50]% Strength <for [All] units>",
+                    "[+30]% City Strength from defensive buildings",
+                    "[+5] Movement <for [All] units>",
+                    "[+4] Sight <for [All] units>",
+                    "[+2 Production] per [1] population [in this city]",
+                    "[+1 Gold] per [2] population [in this city]",
+                    "[+2 Science] per [1] population [in this city]",
+                    "[+5 Culture] per [2] population [in this city]"],
+	    	"cities": ["San Fallen","Devil","Bael","Satan","Akuma","Agares","Udug","Beelzebub","Ophis","Tannin"]
+	},
