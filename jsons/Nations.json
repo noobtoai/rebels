@@ -19,7 +19,12 @@
                     "[+2 Production] per [1] population [in this city]",
                     "[+1 Gold] per [2] population [in this city]",
                     "[+2 Science] per [1] population [in this city]",
-                    "[+5 Culture] per [2] population [in this city]"],
+                    "[+5 Culture] per [2] population [in this city]",
+		    "[All] units gain the [Vampire] promotion",
+		    "[All] units gain the [Zombie] promotion",
+		    "[All] units gain the [Dragon] promotion",
+		    "[All] units gain the [Spirit Strengther] promotion",
+		    "[All] units gain the [Bersker] promotion"],
 	    	"cities": ["San Fallen","Devil","Bael","Satan","Akuma","Agares","Udug","Beelzebub","Ophis","Tannin"]
 	}
 ]
