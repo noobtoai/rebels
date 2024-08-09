@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Dragon",
-		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","[-100]% Strength for enemy [All] units in adjacent [All] tiles","[+10]% Strength bonus for [Military] units within [4] tiles"]
+		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","[-90]% Strength for enemy [All] units in adjacent [All] tiles","[+10]% Strength bonus for [Military] units within [4] tiles"]
 	},
 	{
 		"name": "Spirit Strengther",
@@ -19,6 +19,10 @@
 	{
 		"name": "Bersker",
 		"uniques":["Ignores terrain cost","[8] additional attacks per turn"],
+	},
+	{
+		"name": "Absolute Ruler",
+		"uniques": ["[-100]% Strength for enemy [All] units in adjacent [All] tiles","Heals [50] damage if it kills a unit","Earn [50]% of the damage done to [All] units as [Strength]"]
 	}
 	
 	
