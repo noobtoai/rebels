@@ -22,7 +22,7 @@
 	},
 	{
 		"name": "Absolute Ruler",
-		"uniques": ["[-100]% Strength for enemy [All] units in adjacent [All] tiles","Heals [50] damage if it kills a unit","Earn [50]% of the damage done to [All] units as [Strength]"]
+		"uniques": ["[-100]% Strength for enemy [All] units in adjacent [All] tiles","Heals [50] damage if it kills a unit","Earn [100]% of the damage done to [All] units as [Science]"]
 	}
 	
 	
